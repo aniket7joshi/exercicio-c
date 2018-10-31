@@ -1,3 +1,3 @@
 # Example "Hello World!" in C
 
-This is an example of how to write C code to print out "Hello World! and how use scanf, printf, declaration variable ".
+Basic C code to print 'Hello World'. It is one of the first C program a programmer learns to write when he starts to code in a language.
